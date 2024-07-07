@@ -7,7 +7,7 @@
 
 ConsciousCapital aims to help beginner investors curate portfolios that align with their ESG values.
 
-*This project was a part of HackTJ 2023 (Best Web Hack, 1x Sponsor Prize)*
+*This project was a part of [HackTJ 2023](https://devpost.com/software/conscious-capital) (Best Web Hack, 1x Sponsor Prize)*
 
 ## Inspiration 🔮 
 Being an new investor can be difficult, especially when you're told to conduct extensive research on the income statements, news releases, and values of hundreds of companies. We aimed to make an easy tool that makes your own stock basket based on conscious values. These include environment, social, governance, controversy, gender, and racial diversity. *This makes the barrier to entry for people much lower.*
@@ -21,3 +21,7 @@ Finally, we utilize award-winning Markowitzian portfolio theory, more specifical
 
 ## What's next for Conscious Capital 🏆
 We want to explore different Markowitzian portfolio algorithms. Additionally, we want to extend the dataset and perhaps include more metrics to evaluate companies by.
+
+## License
+
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
